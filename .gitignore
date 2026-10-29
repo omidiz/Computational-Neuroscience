@@ -1,0 +1,14 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# IBL code cloned by the notebook (Step 1); its results/ folder holds local outputs
+paper-brain-wide-map/
+
+# OS / editor files
+.DS_Store
+.vscode/
+.idea/
