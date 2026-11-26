@@ -118,7 +118,7 @@ jupyter lab IBL_BWM_Prior_Update_Project.ipynb
 
 * Ashman, K. M., Bird, C. M., & Zepf, S. E. (1994). Detecting bimodality in astronomical datasets. *The Astronomical Journal*, 108, 2348–2361. https://doi.org/10.1086/117248
 * Findling, C., Hubert, F., International Brain Laboratory, Acerbi, L., Benson, B., Benson, J., et al. (2025). Brain-wide representations of prior information in mouse decision-making. *Nature*, 645, 192–200. https://doi.org/10.1038/s41586-025-09226-1
-* International Brain Laboratory et al. (2021). Standardized and reproducible measurement of decision-making in mice. *eLife*, 10, e63711. https://doi.org/10.7554/eLife.63711
+* International Brain Laboratory et al. (2021). Standardized and reproducible measurement of decision-making in mice. *eLife*, 10, e63711.. https://doi.org/10.7554/eLife.63711
 * International Brain Laboratory et al. (2025). A brain-wide map of neural activity during complex behaviour. *Nature*, 645, 177–191. https://doi.org/10.1038/s41586-025-09235-0
 * Kass, R. E., & Raftery, A. E. (1995). Bayes factors. *Journal of the American Statistical Association*, 90(430), 773–795.
 * Muratov, A. L., & Gnedin, O. Y. (2010). Modeling the metallicity distribution of globular clusters. *The Astrophysical Journal*, 718, 1266.
